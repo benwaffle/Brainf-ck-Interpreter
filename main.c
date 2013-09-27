@@ -94,8 +94,7 @@ int main(int argc, char *argv[]){
 			if(cells[ptr] == 0){
 				iptr++;
 				bracketCtr--;
-			}
-			else do {
+			} else do {
 				iptr--;
 				if(src[iptr] == '[') bracketCtr++;
 				else if(src[iptr] == ']') bracketCtr--;
