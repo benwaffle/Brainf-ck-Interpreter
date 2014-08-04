@@ -3,4 +3,4 @@ A brainfuck interpreter written in C.
 
 I read learn brainfuck in Y minutes, and when i realized how simple it was I went and wrote an interpreter.
 
-Just compile with `cc brainfuck.c -o brainfuck` or gcc.
+Just compile with `cc brainfuck.c -o brainfuck`.
