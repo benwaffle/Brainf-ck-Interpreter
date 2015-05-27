@@ -1,0 +1,5 @@
+bf
+a.out
+*.so
+.gdb_history
+peda-*
